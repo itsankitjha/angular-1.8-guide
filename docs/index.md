@@ -11,7 +11,7 @@ hero:
       link: /guide/introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/your-username/angular-1.8-guide
+      link: https://github.com/itsankitjha/angular-1.8-guide
 
 features:
   - title: Why AngularJS Still Matters
